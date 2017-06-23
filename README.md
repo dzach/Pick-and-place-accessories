@@ -1,7 +1,7 @@
 # Accessories for SMT pick and place machines
-3D designs are made with ![FreeCAD](http://www.freecadweb.org/).
+3D designs made with ![FreeCAD](http://www.freecadweb.org/).
 
-3D printed cut tape strip feeders, made for a 30x30mm grid
+The feeders were made for a 30x30mm grid.
 
 * 8mm, 200mm long, cut tape feeder
 
