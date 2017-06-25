@@ -28,7 +28,7 @@ The feeders were made for a 30x30mm grid.
 * Bottom camera adjustment detail
 
 ![](https://github.com/dzach/Pick-and-place-accessories/blob/master/images/bottom-cam-adjustment-1.png)
-* Juki nozzle model
 * Philips SPZ5000 webcam focusing tool
+* Juki nozzle model
 
 and more, as the design continues!
